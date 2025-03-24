@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\controllers\\impersonationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\controllers\\impersonationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\impersonationapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\impersonationapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|c:\\users\\jaludurajkumar\\source\\repos\\impersonationapi\\impersonationapi\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFC12EC-8F2F-4678-875E-293EE30610A6}|ImpersonationAPI\\ImpersonationAPI.csproj|solutionrelative:impersonationapi\\services\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ImpersonationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T14:32:33.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Program.cs",
+              "RelativeToolTip": "ImpersonationAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:59:30.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpersonationController.cs",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Controllers\\ImpersonationController.cs",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\Controllers\\ImpersonationController.cs",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Controllers\\ImpersonationController.cs",
+              "RelativeToolTip": "ImpersonationAPI\\Controllers\\ImpersonationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:01:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpersonationAPI",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\ImpersonationAPI.csproj",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\ImpersonationAPI.csproj",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\ImpersonationAPI.csproj",
+              "RelativeToolTip": "ImpersonationAPI\\ImpersonationAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T14:48:00.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\appsettings.json",
+              "RelativeToolTip": "ImpersonationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T14:01:46.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "ImpersonationAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T00:10:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphService.cs",
+              "DocumentMoniker": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Services\\GraphService.cs",
+              "RelativeDocumentMoniker": "ImpersonationAPI\\Services\\GraphService.cs",
+              "ToolTip": "C:\\Users\\JaluduRajkumar\\source\\repos\\ImpersonationAPI\\ImpersonationAPI\\Services\\GraphService.cs",
+              "RelativeToolTip": "ImpersonationAPI\\Services\\GraphService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:00:41.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qZEYVyP4XBtSPdzyHwql7J6uQV7aZ73A3x9qcrIyrxI=",
+  "Source": "ImpersonationAPI",
+  "BasePath": "_content/ImpersonationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
